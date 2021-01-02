@@ -1,0 +1,46 @@
+= Mastermind
+Santa Tecla <parqueNaturalSantaTecla@gmail.com>
+:toc-title: Índice
+:toc: left
+
+:idprefix:
+:idseparator: -
+:imagesdir: images
+
+
+== ¿Cómo?
+
+=== Literales
+
+=== Variables
+
+=== Operadores
+
+==== Conversión de Tipos
+
+=== Expresiones
+
+[cols="30,30,40"]
+|===
+
+2+a| _Expresión si has ganado una partida teniendo en cuenta que ocurre cuando todas las fichas son negras(juego Mastermaind)_
+.2+a|
+image::Mastermind.jpg[]
+
+2+a| _Expresión si has perdido una partida teniendo en cuenta que ocurre cuando has agotado el máximo número de intentos(juego Mastermaind)_
+a|
+
+|===
+
+=== Sentencia de Asignación
+
+=== Sentencias Compuestas
+
+=== Funciones
+
+=== Objetos
+
+=== Tablas
+
+
+
